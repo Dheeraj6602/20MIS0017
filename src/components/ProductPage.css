@@ -1,0 +1,28 @@
+/* components/ProductPage.css */
+.product-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .product-content {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .product-name {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .product-detail {
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+  }
+  
+  .product-description {
+    font-size: 1.1rem;
+  }
+  
